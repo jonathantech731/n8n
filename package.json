@@ -71,7 +71,7 @@
     "tsc-watch": "^6.2.0",
     "turbo": "2.3.3",
     "typescript": "*",
-    "zx": "^8.1.4"
+    "zx": "^8.8.5"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
