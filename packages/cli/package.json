@@ -149,7 +149,7 @@
     "n8n-nodes-base": "workspace:*",
     "n8n-workflow": "workspace:*",
     "nanoid": "catalog:",
-    "nodemailer": "6.9.9",
+    "nodemailer": "7.0.11",
     "oauth-1.0a": "2.2.6",
     "open": "7.4.2",
     "otpauth": "9.1.1",
