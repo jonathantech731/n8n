@@ -196,7 +196,7 @@
     "html-to-text": "9.0.5",
     "https-proxy-agent": "^7.0.6",
     "jsdom": "23.0.1",
-    "langchain": "0.3.11",
+    "langchain": "0.3.37",
     "lodash": "catalog:",
     "mammoth": "1.7.2",
     "mime-types": "2.1.35",
